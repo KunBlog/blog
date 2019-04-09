@@ -1,7 +1,7 @@
 {
     "title": "blog",
-    "author": "Lyon",
-    "description": "my notes",
+    "author": "Kun",
+    "description": "Kun Star",
     "extension": null,
     "generator": "site",
     "links": {
@@ -40,10 +40,10 @@
     ],
     "pluginsConfig": {
         "github": {
-            "url": "https://github.com/lyonyang/blogs"
+            "url": "https://github.com/KunBlog/blog"
         },
         "editlink": {
-            "base": "https://github.com/lyonyang/blogs/blob/master",
+            "base": "https://github.com/KunBlog/blog/blob/master",
             "label": "编辑本页"
         },
         "anchor-navigation-ex-toc": {
