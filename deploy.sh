@@ -1,7 +1,7 @@
 #!/bin/bash
 
-git config user.name "Lyon"
-git config user.email "547903993@qq.com"
+git config user.name "KunBlog"
+git config user.email "lyon547903993@gmail.com"
 git config --global core.quotepath false
 
 git checkout -b gitbook
@@ -22,5 +22,5 @@ git status
 sleep 5
 git add .
 git commit -m "Update gh-pages"
-git remote add origin git@github.com:LyonYang/blogs.git
+git remote add origin git@github.com:KunBlog/blog.git
 git push -f "https://${GH_TOKEN}@${GH_REF}" gh-pages:gh-pages
